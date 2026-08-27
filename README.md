@@ -21,4 +21,4 @@ To analyze employee data and identify patterns and factors associated with emplo
 - Employee-related factors affecting attrition
 
 ## Outcome
-The analysis provides data-driven insights that can help organizations understand employee attrition and develop strategies to improve employee engagement and retention.
+This analysis helps identify key factors contributing to employee attrition and provides insights that can support HR teams in improving employee satisfaction, engagement, and retention. The findings can help management develop targeted strategies to reduce turnover, particularly among junior-level employees.
